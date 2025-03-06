@@ -1,4 +1,4 @@
-. Addition (+)
+1. Addition (+)
 The + operator is used to add two numbers or concatenate two strings.
 python
 a = 5
