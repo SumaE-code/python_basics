@@ -1,0 +1,10 @@
+python operators
+  1.Arithmetic Operators:Perform mathematical operations.
+  2.Comparison (Relational) Operators:Compare values.
+  3.Logical Operators:Perform logical operations.
+  4.Assignment Operators: Assign values to variables.
+  5.Identity Operators:Check if two variables point to the same object.
+  6.Membership Operators: Check if a value exists in a sequence
+  7.Bitwise Operators: Perform bit-level operations.
+  8.Ternary Operators: Shortcut for conditional expressions.
+  9.Lambda: Create small anonymous functions.
